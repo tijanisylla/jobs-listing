@@ -1,0 +1,11 @@
+# Ignore files
+
+*.o
+
+*.a
+
+
+./env
+.env.local
+.env
+./__pycache__
